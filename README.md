@@ -56,3 +56,9 @@ python report_generator.py
 ###  Лист "Данные"
 Все транзакции с датой без времени
 Добавлены колонки: месяц, день недели
+
+
+
+<img width="1376" height="1178" alt="image" src="https://github.com/user-attachments/assets/59a6645e-f076-4731-a84a-66179a8500c8" />
+<img width="1231" height="348" alt="image" src="https://github.com/user-attachments/assets/8f1a839c-3806-4f22-90b8-60fdfe9ec76c" />
+
